@@ -2,7 +2,7 @@
 
 /**
  *@copyright : QTeqLab
- *@author	 : Vishal Sinha < vishalsinha19@gmail.com >
+ *@author	 : Vishal Sinha < vishalsinhadev@gmail.com >
  */
 namespace app\components\grid\widgets;
 
