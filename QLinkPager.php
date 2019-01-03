@@ -1,4 +1,8 @@
 <?php
+/**
+ *@copyright : QTeqLab
+ *@author	 : Vishal Sinha < vishalsinhadev@gmail.com >
+ */
 namespace app\components\grid;
 
 class QLinkPager extends \yii\widgets\LinkPager
