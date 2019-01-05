@@ -7,12 +7,6 @@ namespace app\components\grid;
 
 use yii\widgets\Pjax;
 
-/**
- * GridView Bootstrap4 Widget.
- *
- * @author Basil Suter <basil@nadar.io>
- * @since 1.0.0
- */
 class QGridView extends \yii\grid\GridView
 {
 
